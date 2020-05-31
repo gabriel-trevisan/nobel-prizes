@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nobel-prizes/static/css/main.3acc9013.chunk.css",
-    "main.js": "/nobel-prizes/static/js/main.ec39afae.chunk.js",
-    "main.js.map": "/nobel-prizes/static/js/main.ec39afae.chunk.js.map",
+    "main.js": "/nobel-prizes/static/js/main.e741969a.chunk.js",
+    "main.js.map": "/nobel-prizes/static/js/main.e741969a.chunk.js.map",
     "runtime-main.js": "/nobel-prizes/static/js/runtime-main.31aa313c.js",
     "runtime-main.js.map": "/nobel-prizes/static/js/runtime-main.31aa313c.js.map",
     "static/js/2.62b3ee5f.chunk.js": "/nobel-prizes/static/js/2.62b3ee5f.chunk.js",
     "static/js/2.62b3ee5f.chunk.js.map": "/nobel-prizes/static/js/2.62b3ee5f.chunk.js.map",
     "index.html": "/nobel-prizes/index.html",
-    "precache-manifest.3e92c98a4449aaf0738c380aa7381dd8.js": "/nobel-prizes/precache-manifest.3e92c98a4449aaf0738c380aa7381dd8.js",
+    "precache-manifest.f2c76bfa842cc05589de2ad66a2e92d9.js": "/nobel-prizes/precache-manifest.f2c76bfa842cc05589de2ad66a2e92d9.js",
     "service-worker.js": "/nobel-prizes/service-worker.js",
     "static/css/main.3acc9013.chunk.css.map": "/nobel-prizes/static/css/main.3acc9013.chunk.css.map",
     "static/js/2.62b3ee5f.chunk.js.LICENSE.txt": "/nobel-prizes/static/js/2.62b3ee5f.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.31aa313c.js",
     "static/js/2.62b3ee5f.chunk.js",
     "static/css/main.3acc9013.chunk.css",
-    "static/js/main.ec39afae.chunk.js"
+    "static/js/main.e741969a.chunk.js"
   ]
 }

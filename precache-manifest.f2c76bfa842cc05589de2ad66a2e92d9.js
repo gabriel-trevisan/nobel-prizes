@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1baf54d0a70642ba1a5d1fb56bc17881",
+    "revision": "82d8dbc227313d0f6f64f18a7d87366d",
     "url": "/nobel-prizes/index.html"
   },
   {
-    "revision": "b62e9487e1be79a88904",
+    "revision": "a60c1e6a0b90d6f4a256",
     "url": "/nobel-prizes/static/css/main.3acc9013.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nobel-prizes/static/js/2.62b3ee5f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b62e9487e1be79a88904",
-    "url": "/nobel-prizes/static/js/main.ec39afae.chunk.js"
+    "revision": "a60c1e6a0b90d6f4a256",
+    "url": "/nobel-prizes/static/js/main.e741969a.chunk.js"
   },
   {
     "revision": "fd07624fe170a2937997",
