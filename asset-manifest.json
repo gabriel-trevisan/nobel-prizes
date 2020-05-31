@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3acc9013.chunk.css",
+    "main.js": "/static/js/main.a08ff9e6.chunk.js",
+    "main.js.map": "/static/js/main.a08ff9e6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e2aa004f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e2aa004f.js.map",
+    "static/js/2.62b3ee5f.chunk.js": "/static/js/2.62b3ee5f.chunk.js",
+    "static/js/2.62b3ee5f.chunk.js.map": "/static/js/2.62b3ee5f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.13a2a91626482b7a0c3b87877765fad1.js": "/precache-manifest.13a2a91626482b7a0c3b87877765fad1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3acc9013.chunk.css.map": "/static/css/main.3acc9013.chunk.css.map",
+    "static/js/2.62b3ee5f.chunk.js.LICENSE.txt": "/static/js/2.62b3ee5f.chunk.js.LICENSE.txt",
+    "static/media/peace.png": "/static/media/peace.34f007ad.png",
+    "static/media/physics.png": "/static/media/physics.e5033548.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2aa004f.js",
+    "static/js/2.62b3ee5f.chunk.js",
+    "static/css/main.3acc9013.chunk.css",
+    "static/js/main.a08ff9e6.chunk.js"
+  ]
+}
