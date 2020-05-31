@@ -1,0 +1,27 @@
+h2 {
+    text-align: center;
+    font-size: calc(15px + 2vmin);
+    margin-bottom: 0;
+}
+
+h3 {
+    text-transform: capitalize;
+    font-size: calc(8px + 2vmin);
+    text-align: center;
+}
+
+hr {
+    border: 2px solid #3ae374;
+    border-radius: 2px;
+    width: 2%;
+}
+
+.container{
+    margin: 0 10px 0 10px;
+}
+
+.card__wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
